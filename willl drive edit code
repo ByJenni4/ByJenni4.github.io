@@ -1,0 +1,17 @@
+https://drive.google.com/uc?export=view&id=1NjVcoHUHl8ZP1hmAT2oDgaItXyoOc9Iq
+
+
+## use this link to share you folder where the images are saved on Google Drive
+## Replace the your_folder_id with the folder_id on your Google Drive 
+https://drive.google.com/drive/folders/your_folder_id?usp=sharing
+
+## Where I got my code from
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_signup_form_modal
+
+## Also, Should create two folders 
+|_Submitted_Images
+|_Approved_Images
+
+your code will only get images from the approved folder. 
+Someone will need to manually view the Submitted_Images and move them to Approved so they get picked up in the image rotator. 
+Once someone submits an image, a message should be displayed that says "Thank You! Your image will be approved within 24-48 hours."

@@ -1,3 +1,26 @@
-h1 {
-  font-size: 2rem;
+#header {
+  text-align: center;
+  color: whitesmoke;
+  background-image: linear-gradient(purple, cyan);
+  height: 100vh;
+  font-family: "Frank Ruhl Libre", serif;
+  width: 100%;
+  margin: 10px;
+}
+
+#about {
+  color: whitesmoke;
+  text-align: center;
+  background-image: linear-gradient(rebeccapurple, cyan);
+  height: 100vh;
+  margin: 50px;
+  font-family: "Frank Ruhl Libre", serif;
+}
+
+#myCarousel {
+  background-image: linear-gradient(lightblue, pink);
+  height: 60%;
+  width: 80%;
+  margin: auto;
+
 }
