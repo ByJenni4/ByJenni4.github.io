@@ -3,7 +3,7 @@
   color: whitesmoke;
   background-image: linear-gradient(purple, cyan);
   height: 100vh;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: "Moulpali", serif;
   width: 100%;
   margin: 10px;
 }
@@ -14,7 +14,7 @@
   background-image: linear-gradient(rebeccapurple, cyan);
   height: 100vh;
   margin: 50px;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: "Moulpali", serif;
 }
 
 #myCarousel {
@@ -23,4 +23,7 @@
   width: 80%;
   margin: auto;
 
+}
+#ff-compose{
+  background-color: pink;
 }
