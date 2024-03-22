@@ -27,3 +27,12 @@
 #ff-compose{
   background-color: pink;
 }
+.button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+}
+
+#MyButton{
+  background-color: purple;
+}
